@@ -1,0 +1,11 @@
+D:\OneDrive\Dokumente\BrP966_Prog_c#_VSC\HelloWorld_1\bin\Debug\netcoreapp3.0\HelloWorld_1.exe
+D:\OneDrive\Dokumente\BrP966_Prog_c#_VSC\HelloWorld_1\bin\Debug\netcoreapp3.0\HelloWorld_1.deps.json
+D:\OneDrive\Dokumente\BrP966_Prog_c#_VSC\HelloWorld_1\bin\Debug\netcoreapp3.0\HelloWorld_1.runtimeconfig.json
+D:\OneDrive\Dokumente\BrP966_Prog_c#_VSC\HelloWorld_1\bin\Debug\netcoreapp3.0\HelloWorld_1.runtimeconfig.dev.json
+D:\OneDrive\Dokumente\BrP966_Prog_c#_VSC\HelloWorld_1\bin\Debug\netcoreapp3.0\HelloWorld_1.dll
+D:\OneDrive\Dokumente\BrP966_Prog_c#_VSC\HelloWorld_1\bin\Debug\netcoreapp3.0\HelloWorld_1.pdb
+D:\OneDrive\Dokumente\BrP966_Prog_c#_VSC\HelloWorld_1\obj\Debug\netcoreapp3.0\HelloWorld_1.csprojAssemblyReference.cache
+D:\OneDrive\Dokumente\BrP966_Prog_c#_VSC\HelloWorld_1\obj\Debug\netcoreapp3.0\HelloWorld_1.AssemblyInfoInputs.cache
+D:\OneDrive\Dokumente\BrP966_Prog_c#_VSC\HelloWorld_1\obj\Debug\netcoreapp3.0\HelloWorld_1.AssemblyInfo.cs
+D:\OneDrive\Dokumente\BrP966_Prog_c#_VSC\HelloWorld_1\obj\Debug\netcoreapp3.0\HelloWorld_1.dll
+D:\OneDrive\Dokumente\BrP966_Prog_c#_VSC\HelloWorld_1\obj\Debug\netcoreapp3.0\HelloWorld_1.pdb
